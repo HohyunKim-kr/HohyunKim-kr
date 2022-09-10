@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola ~ I want make blockchain game 👋
 
 <!--
 **HohyunKim-kr/HohyunKim-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
