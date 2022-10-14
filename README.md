@@ -1,4 +1,4 @@
-### Hola ~ I want make blockchain game and blockchain👋 
+### Hola ~ I want make blockchain game and blockchain👋 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 <!--
 **HohyunKim-kr/HohyunKim-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
