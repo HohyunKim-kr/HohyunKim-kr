@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 ## ✨ My Portfolio ✨
  <a href="https://r-blockchain.tistory.com/"> <img src="https://img.shields.io/badge/Tistory-white?style=for-the-badge&logo=Tistory&logoColor=black"></a>
