@@ -5,8 +5,6 @@
 <!--
 **HohyunKim-kr/HohyunKim-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Timeline
-🧑‍💻 (2021.12 ~ 2022.02) datastudio intern  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
