@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 ### 💡 Programming Ability 💡
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HohyunKim-kr&&show_icons=true&theme=dark)
 
+## Timeline
+🎓 (2017.03 ~ ) [TUKorea] Attended Department of Computer Engineering  
+🧑‍💻 (2021.12 ~ 2022.02) datastudio intern  
 
 ## ✨ MyStack ✨
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
