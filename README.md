@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 ### 💡 Programming Ability 💡
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HohyunKim-kr&&show_icons=true&theme=dark)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=HohyunKim-kr)](https://solved.ac/HohyunKim-kr)
 
 ## Timeline
 🎓 (2017.03 ~ ) [TUKorea] Attended Department of Computer Engineering  
