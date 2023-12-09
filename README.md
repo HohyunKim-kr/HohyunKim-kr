@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 -->
 ### 💡 Programming Ability 💡
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HohyunKim-kr&&show_icons=true&theme=dark)
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=HohyunKim-kr)](https://solved.ac/HohyunKim-kr)
+
 
 ## Timeline
 🎓 (2017.03 ~ ) [TUKorea] Attended Department of Computer Engineering  
 🧑‍💻 (2021.12 ~ 2022.02) datastudio intern  
+🧑‍💻 (2023.06 ~ 2024.03) kyungil blockchain bootcamp  
+🧑‍💻 (2023.09 ~ 2023.12) Korea University, blockchain valley Development Team 4th
+
 
 ## ✨ MyStack ✨
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
