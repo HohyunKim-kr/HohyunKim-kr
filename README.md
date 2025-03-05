@@ -20,13 +20,25 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HohyunKim-kr&&show_icons=true&theme=dark)
 
 
-## Timeline
-🎓 (2017.03 ~ 2023.08) [TUKorea] Attended Department of Computer Engineering  
-🧑‍💻 (2021.12 ~ 2022.02) datastudio intern  
-🧑‍💻 (2023.06 ~ 2024.03) kyungil blockchain bootcamp  
-🧑‍💻 (2023.09 ~ 2025.08) Korea University, blockchain valley Development Team 4th
-🧑‍💻 (2024.03 ~ 2024.12) game.institute game programmer student(drop out)
-🧑‍💻 (2025.02 ~ 2025.07) Kosta nodejs fullstack bootcamp 
+## 🕒 Timeline
+
+### 🎓 Education
+- **TUKorea** (2017.03 ~ 2023.08)  
+  *Department of Computer Engineering*
+
+### 🧑‍💻 Experience
+- **Datastudio** (2021.12 ~ 2022.02)  
+  *Intern*
+- **Kyungil Blockchain Bootcamp** (2023.06 ~ 2024.03)  
+- **Korea University, Blockchain Valley** (2023.09 ~ Present)  
+  *Development Team 4th*
+
+### 🎮 Game Development
+- **Game.Institute** (2024.03 ~ 2024.12)  
+  *Game Programmer Student (Dropout)*
+
+### 🌐 Web & Blockchain
+- **Kosta Node.js Fullstack Bootcamp** (2025.02 ~ 2025.07)
 
 ## ✨ MyStack ✨
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
