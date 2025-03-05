@@ -29,9 +29,6 @@ Here are some ideas to get you started:
 ### 🧑‍💻 Experience
 - **Datastudio** (2021.12 ~ 2022.02)  
   *Intern*
-- **Kyungil Blockchain Bootcamp** (2023.06 ~ 2024.03)  
-- **Korea University, Blockchain Valley** (2023.09 ~ Present)  
-  *Development Team 4th*
 
 ### 🎮 Game Development
 - **Game.Institute** (2024.03 ~ 2024.12)  
@@ -39,6 +36,9 @@ Here are some ideas to get you started:
 
 ### 🌐 Web & Blockchain
 - **Kosta Node.js Fullstack Bootcamp** (2025.02 ~ 2025.07)
+- **Kyungil Blockchain Bootcamp** (2023.06 ~ 2024.03)  
+- **Korea University, Blockchain Valley** (2023.09 ~ Present)  
+  *Development Team 4th*
 
 ## ✨ MyStack ✨
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
