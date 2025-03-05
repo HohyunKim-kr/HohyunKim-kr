@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 🎓 (2017.03 ~ 2023.08) [TUKorea] Attended Department of Computer Engineering  
 🧑‍💻 (2021.12 ~ 2022.02) datastudio intern  
 🧑‍💻 (2023.06 ~ 2024.03) kyungil blockchain bootcamp  
-🧑‍💻 (2023.09 ~ now) Korea University, blockchain valley Development Team 4th
+🧑‍💻 (2023.09 ~ 2025.08) Korea University, blockchain valley Development Team 4th
 🧑‍💻 (2024.03 ~ 2024.12) game.institute game programmer student(drop out)
 🧑‍💻 (2025.02 ~ 2025.07) Kosta nodejs fullstack bootcamp 
 
